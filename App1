@@ -1,0 +1,7 @@
+import java.util.Random;
+
+public class GitHub{
+  public static void main(String[] args){
+    //This is where the main code goes.
+  }
+}
