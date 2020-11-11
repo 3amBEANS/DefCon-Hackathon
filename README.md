@@ -1,4 +1,4 @@
 # DefCon-Hackathon
 Hackathon
 
-Defcon Hackathon, hi Ryan Gammon, insert your code here.
+Defcon Hackathon, hi Ryan, insert your code here.
